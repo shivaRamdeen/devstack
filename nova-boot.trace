@@ -1,0 +1,44 @@
++--------------------------------------+----------------------------------------------------------------+
+| Property                             | Value                                                          |
++--------------------------------------+----------------------------------------------------------------+
+| OS-DCF:diskConfig                    | MANUAL                                                         |
+| OS-EXT-AZ:availability_zone          |                                                                |
+| OS-EXT-SRV-ATTR:host                 | -                                                              |
+| OS-EXT-SRV-ATTR:hostname             | test2                                                          |
+| OS-EXT-SRV-ATTR:hypervisor_hostname  | -                                                              |
+| OS-EXT-SRV-ATTR:instance_name        | instance-00000002                                              |
+| OS-EXT-SRV-ATTR:kernel_id            | 55e56dbd-ad69-49a1-911d-f7e0f0eadba1                           |
+| OS-EXT-SRV-ATTR:launch_index         | 0                                                              |
+| OS-EXT-SRV-ATTR:ramdisk_id           | 8f07ab03-d868-498f-b442-b9c61793f671                           |
+| OS-EXT-SRV-ATTR:reservation_id       | r-tpk2vrxv                                                     |
+| OS-EXT-SRV-ATTR:root_device_name     | -                                                              |
+| OS-EXT-SRV-ATTR:user_data            | -                                                              |
+| OS-EXT-STS:power_state               | 0                                                              |
+| OS-EXT-STS:task_state                | scheduling                                                     |
+| OS-EXT-STS:vm_state                  | building                                                       |
+| OS-SRV-USG:launched_at               | -                                                              |
+| OS-SRV-USG:terminated_at             | -                                                              |
+| accessIPv4                           |                                                                |
+| accessIPv6                           |                                                                |
+| adminPass                            | AyySyq2dWpzc                                                   |
+| config_drive                         |                                                                |
+| created                              | 2016-07-06T15:47:16Z                                           |
+| description                          | -                                                              |
+| flavor                               | m1.small (2)                                                   |
+| hostId                               |                                                                |
+| host_status                          |                                                                |
+| id                                   | 6aa87caa-1a16-44a4-97e1-14d8aa77811f                           |
+| image                                | cirros-0.3.4-x86_64-uec (1369e467-096e-4d59-a73c-3c45a43a8305) |
+| key_name                             | -                                                              |
+| locked                               | False                                                          |
+| metadata                             | {}                                                             |
+| name                                 | test2                                                          |
+| os-extended-volumes:volumes_attached | []                                                             |
+| progress                             | 0                                                              |
+| security_groups                      | default                                                        |
+| status                               | BUILD                                                          |
+| tags                                 | []                                                             |
+| tenant_id                            | c704a22c47b84692bfe46de363c213f8                               |
+| updated                              | 2016-07-06T15:47:16Z                                           |
+| user_id                              | eae2d18d3ffe4b5188d07b9bc6ad636d                               |
++--------------------------------------+----------------------------------------------------------------+
